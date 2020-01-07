@@ -2,7 +2,7 @@ import os
 import shutil
 
 # Write the name of the directory here, that needs to get sorted
-path = 'E:/Downloads'
+path = 'enter your path here'
 
 # This will create a list with all the filename that is there in the directory
 list_ = os.listdir(path)
